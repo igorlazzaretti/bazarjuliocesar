@@ -1,6 +1,6 @@
 <!-- 
 :convenience_store: Bazar Julio Cesar
-Commit Message:  Readme.md
+Commit Message:  Animated Arrow Hero Section
 -->
 
 # 🏪 Bazar Julio Cesar Imperador
